@@ -1,0 +1,10 @@
+/home/wildcode/Documents/Projects/DotNet -- Vivian/obj/Debug/netcoreapp2.0/DotNet -- Vivian.csproj.CoreCompileInputs.cache
+/home/wildcode/Documents/Projects/DotNet -- Vivian/obj/Debug/netcoreapp2.0/DotNet -- Vivian.AssemblyInfoInputs.cache
+/home/wildcode/Documents/Projects/DotNet -- Vivian/obj/Debug/netcoreapp2.0/DotNet -- Vivian.AssemblyInfo.cs
+/home/wildcode/Documents/Projects/DotNet -- Vivian/bin/Debug/netcoreapp2.0/DotNet -- Vivian.deps.json
+/home/wildcode/Documents/Projects/DotNet -- Vivian/bin/Debug/netcoreapp2.0/DotNet -- Vivian.runtimeconfig.json
+/home/wildcode/Documents/Projects/DotNet -- Vivian/bin/Debug/netcoreapp2.0/DotNet -- Vivian.runtimeconfig.dev.json
+/home/wildcode/Documents/Projects/DotNet -- Vivian/bin/Debug/netcoreapp2.0/DotNet -- Vivian.dll
+/home/wildcode/Documents/Projects/DotNet -- Vivian/bin/Debug/netcoreapp2.0/DotNet -- Vivian.pdb
+/home/wildcode/Documents/Projects/DotNet -- Vivian/obj/Debug/netcoreapp2.0/DotNet -- Vivian.dll
+/home/wildcode/Documents/Projects/DotNet -- Vivian/obj/Debug/netcoreapp2.0/DotNet -- Vivian.pdb
